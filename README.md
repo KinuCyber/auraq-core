@@ -1,3 +1,7 @@
+## This repository has moved to [https://www.github.com/AuraqLabs/auraq-core](https://www.github.com/AuraqLabs/auraq-core)
+## Mirrors available at [tangled.org](https://tangled.org/kinu.tngl.sh/auraq-core) and [sr.ht](sr.ht/~kinucyber/auraq-core)
+
+
 # Auraq Core
 
 **Auraq Core** is a modular frontend templating system. It provides the UI/UX and interaction layer for all of my static portfolio sites. Unique features include direct-manipulation scrolling with momentum, horizontal navigation systems, and a `<noscript>` fallback so sites remain functional even when JavaScript is disabled.
